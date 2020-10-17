@@ -1,3 +1,5 @@
+#webページを取得する際のエラー処理例
+
 import time
 import requests
 

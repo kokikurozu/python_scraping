@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>https://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2020</copyright>
+ <lastBuildDate>Sun, 11 Oct 2020 22:22:00 +0900</lastBuildDate>
+ <image>
+  <url>https://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>https://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>2020年10月9日号　GroovyのBetaとKernel Freeze，NVIDIA EGX API Platform ── Ubuntu Weekly Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/ubuntu-topics/202010/09</link>
+  <description>Groovyのベータがリリースされ，最後のテストフェーズが開始されました。あわせてKernel Freezeも行われており，以降の修正は原則としてリリース後に持ち越されることになります。</description>
+  <pubDate>Fri, 09 Oct 2020 09:44:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/ubuntu-topics/202010/09</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>アドバンスソフトウェア，帳票ツールの新バージョン「VB-Report 10」とバーコード生成コンポーネントの新バージョン「VB-BarCode 5」を発売 ── ニュースリリース</title>
+  <link>https://gihyo.jp/news/nr/2020/10/0801</link>
+  <description>アドバンスソフトウェアは，Excelをデザイナとして使用する帳票開発ツールの新バージョン「VB-Report 10」を2020年10月8日より発売する。</description>
+  <pubDate>Thu, 08 Oct 2020 16:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>https://gihyo.jp/news/nr/2020/10/0801</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>2020年10月第2週号 1位は，UIデザインの危険なトレンド，気になるネタは，Hameeが小学生向け“プレスマホ”を発表 月額1000円で1GB，Google Playにも対応 ── 週刊Webテク通信</title>
+  <link>https://gihyo.jp/design/clip/01/weekly-web-tech/202010/08</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2020年9月28日～10月4日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 08 Oct 2020 09:15:20 +0900</pubDate>
+  <category domain="https://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>https://gihyo.jp/design/clip/01/weekly-web-tech/202010/08</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>2020年10月第2週　今秋は豊作だけど，異変アリ ── Android Weekly Topics</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/awt/202010/08</link>
+  <description>2020年10月第2週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 08 Oct 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/awt/202010/08</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2020年10月7日　RISC-VのUEFIブート，Linux 5.10でイニシャルサポートへ ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/202010/07</link>
+  <description>x86やArmとは異なるオープンスタンダードなISAとしてここ1，2年，注目度が高まっているアーキテクチャ「RISC-V」。</description>
+  <pubDate>Wed, 07 Oct 2020 13:50:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/202010/07</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>第636回　LXD MosaicでLXDをウェブブラウザーから操作する ── Ubuntu Weekly Recipe</title>
+  <link>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0636</link>
+  <description>サーバー版のUbuntuには最初からインストールされているコンテナ管理システム「LXD」はCLIで操作するツールです。今回はこれをウェブブラウザーからも操作できるようにしましょう。</description>
+  <pubDate>Wed, 07 Oct 2020 09:44:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0636</guid> 
+  <author>柴田充也</author>
+ </item>
+ <item>
+  <title>2020年10月2日　急に寒くなってまいりました ── 帰ってきた『技評ねこ部通信』</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202010/1002</link>
+  <description>暑い暑いと思っていましたが，ここ1週間ほどで急に朝晩寒くなってまいりました。</description>
+  <pubDate>Fri, 02 Oct 2020 15:00:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/monthly-cat">帰ってきた『技評ねこ部通信』</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202010/1002</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>【数量限定】『リアルサイズ古生物図鑑 新生代編』発売記念　全国188書店で特製クリアファイルのプレゼントキャンペーンを実施中！ ── ニュースリリース</title>
+  <link>https://gihyo.jp/news/nr/2020/10/0201</link>
+  <description>技術評論社は，大人気シリーズ新刊『古生物のサイズが実感できる！ リアルサイズ古生物図鑑 新生代編』の発売を記念し，全国の書店188店舗にて特製クリアファイルのプレゼントキャンペーンを実施中です。</description>
+  <pubDate>Fri, 02 Oct 2020 14:10:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>https://gihyo.jp/news/nr/2020/10/0201</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>2020年10月2日号　GroovyのBeta Freeze，LibreOfficeの『Yaru』テーマアイコン ── Ubuntu Weekly Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/ubuntu-topics/202010/02</link>
+  <description>Groovy（20.10）のベータのためのFreezeが行われ，リリースに向けた助走が開始されています。</description>
+  <pubDate>Fri, 02 Oct 2020 09:45:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/ubuntu-topics/202010/02</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>第62回　「多様性時代のDB選択」報告，MySQL Database Service東京リージョン展開，PostgreSQL 13正式リリースとPGEConsの活動成果公開 ── OSSデータベース取り取り時報</title>
+  <link>https://gihyo.jp/dev/serial/01/oss-db-various-news/0062</link>
+  <description>この連載では，OSSコンソーシアム データベース部会のメンバーが，さまざまなオープンソースデータベースの毎月の出来事をお伝えしています。</description>
+  <pubDate>Thu, 01 Oct 2020 09:15:40 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/oss-db-various-news">OSSデータベース取り取り時報</category>
+  <guid>https://gihyo.jp/dev/serial/01/oss-db-various-news/0062</guid> 
+  <author>梶山隆輔，溝口則行</author>
+ </item>
+ <item>
+  <title>2020年10月第1週　Androidカーネルの断片化を解消する新たな取り組み「Generic Kernel Image」 ── Android Weekly Topics</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/awt/202010/01</link>
+  <description>2020年10月第1週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 01 Oct 2020 09:15:20 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/awt/202010/01</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2020年10月第1週号 1位は，ハンバーガーメニューのエンゲージメントを高める方法，気になるネタは，アマゾンがEcho Dotを球体に再設計，キッズ版に動物のデザインと読書機能を追加 ── 週刊Webテク通信</title>
+  <link>https://gihyo.jp/design/clip/01/weekly-web-tech/202010/01</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2020年9月21日～9月27日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 01 Oct 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>https://gihyo.jp/design/clip/01/weekly-web-tech/202010/01</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>2020年9月30日　Fedora 33 Betaがリリース，正式公開は10月末を予定 ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/202009/30</link>
+  <description>Fedoraプロジェクトは9月29日，「Fedora 33 Beta」のリリースを発表した。</description>
+  <pubDate>Wed, 30 Sep 2020 16:51:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/202009/30</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>「アシストテクニカルフォーラム2020」10月22日にオンラインで開催 ── インフォメーション</title>
+  <link>https://gihyo.jp/news/info/2020/09/3001</link>
+  <description>株式会社アシスト，およびアシストグループの株式会社のれんは，同社の技術情報を届けるイベントとして「アシストテクニカルフォーラム2020」を2020年10月22日にオンラインで開催する。</description>
+  <pubDate>Wed, 30 Sep 2020 16:35:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/info">インフォメーション</category>
+  <guid>https://gihyo.jp/news/info/2020/09/3001</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>技術評論社，個人向け直販サイト「Gihyo Direct」を9月29日にオープン ── ニュースリリース</title>
+  <link>https://gihyo.jp/news/nr/2020/09/3001</link>
+  <description>株式会社技術評論社は個人向け直販サイト「Gihyo Direct」を2020年9月29日（火）に開設しました。</description>
+  <pubDate>Wed, 30 Sep 2020 10:22:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>https://gihyo.jp/news/nr/2020/09/3001</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>第24回　君の名は（NSS:Name Service Switch）［その2］ ── 続・玩式草子 ―戯れせんとや生まれけん―</title>
+  <link>https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0024</link>
+  <description>激動の2020年も気づけば残り3ヵ月，朝晩はめっきりと涼しくなって，ソースコードと戯れるのには絶好の季節になってきました。今回は，前回に引き続いてglibc2のNSS回りの話題です。</description>
+  <pubDate>Wed, 30 Sep 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2">続・玩式草子 ―戯れせんとや生まれけん―</category>
+  <guid>https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0024</guid> 
+  <author>こじまみつひろ</author>
+ </item>
+ <item>
+  <title>2020年9月29日　ギャップを超えてジャンプせよ！ openSUSEが進める新プロジェクト「openSUSE Jump」 ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/202009/29</link>
+  <description>2020年4月にSUSEがアナウンスした「Closing the Leap Gap」プロジェクトは現在，「openSUSE Jump」としてプロトタイピングが進められている。</description>
+  <pubDate>Tue, 29 Sep 2020 14:04:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/202009/29</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>第131回　mysqldumpslowを使ってスロークエリログを解析してみる ── MySQL道普請便り</title>
+  <link>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0131</link>
+  <description>今回は，mysqldumpslowという，スロークエリログをもっと便利にするコマンドラインツールについて紹介していきます。</description>
+  <pubDate>Tue, 29 Sep 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/mysql-road-construction-news">MySQL道普請便り</category>
+  <guid>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0131</guid> 
+  <author>木村浩一郎</author>
+ </item>
+ <item>
+  <title>第162回　2020年特別編 2019年の特徴，2020年のこれから ── いま，見ておきたいウェブサイト</title>
+  <link>https://gihyo.jp/design/serial/01/website-pickup/0162</link>
+  <description>2020年もすでに後半に差し掛かっておりますが，みなさま，いかがお過ごしでしょうか。『Lançamento - Website, What a Wonderful World!』を運営しているLançamento（ランサメント）です。</description>
+  <pubDate>Mon, 28 Sep 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/design/serial/01/website-pickup">いま，見ておきたいウェブサイト</category>
+  <guid>https://gihyo.jp/design/serial/01/website-pickup/0162</guid> 
+  <author>Lançamento</author>
+ </item>
+ <item>
+  <title>2020年9月25日号　LenovoのUbuntu 20.04 LTSプリインストールデバイス ── Ubuntu Weekly Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/ubuntu-topics/202009/25</link>
+  <description>Lenovoのビジネス向けノートPC＆ワークステーションラインであるThinkPadとThinkStationについて，Ubuntu 20.04 LTSプリインストールモデルが登場することがアナウンスされています。</description>
+  <pubDate>Fri, 25 Sep 2020 10:06:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/ubuntu-topics/202009/25</guid> 
+  <author>吉田史</author>
+ </item>
+</channel>
+</rss>
