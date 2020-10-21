@@ -1,6 +1,6 @@
 #robot.txt、クローリングが許可されているのか教えてくれる。許可されているのならTrue、されていないならfalse
 
-url_allow = 'https://baseball.yahoo.co.jp/npb/game/2020100902/stats' #確認したいurlを入力
+url_allow = 'https://www.amazon.co.jp/ref=nav_logo' #確認したいurlを入力
 
 import urllib.robotparser
 rp = urllib.robotparser.RobotFileParser()
